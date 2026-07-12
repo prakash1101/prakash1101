@@ -11,12 +11,13 @@
 💻 Aspiring Full Stack Developer
 
 🌱 Currently Learning:
-- Python
-- HTML
-- CSS
-- JavaScript
+- React.js
+- Node.js
+- Express.js
 - SQL
-- Git & GitHub
+- REST APIs
+- Data Structures & Algorithms
+
 
 🎯 Goal:
 Become a Professional Full Stack Developer and Software Engineer.
@@ -53,6 +54,6 @@ Become a Professional Full Stack Developer and Software Engineer.
 
 ## 💡 Quote
 
-> "Consistency beats talent when talent doesn't stay consistent."
+> "The best way to predict the future is to create it."
 
 ⭐ Thanks for visiting my profile!
