@@ -29,7 +29,7 @@ Become a Professional Full Stack Developer and Software Engineer.
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,python,java,cpp,c,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,REST APIs,python,java,cpp,c,mysql,git,github" />
 </p>
 
 
@@ -48,6 +48,7 @@ Become a Professional Full Stack Developer and Software Engineer.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/prakash1101
 - 💻 GitHub: https://github.com/prakash1101
+- 🧩 LeetCode: https://leetcode.com/u/prakash1101
 - 📧 Email: prakash101080pk@gmail.com
 
 ---
