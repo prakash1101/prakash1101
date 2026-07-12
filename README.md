@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">BCA Student | Aspiring Full Stack Developer | DSA Learner</h3>
+<h3 align="center">BCA Student | Aspiring Full Stack Developer | DSA Learner
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prakash1101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -77,22 +77,7 @@
 
 </p>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=prakash1101&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/prakash1101/prakash1101/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
