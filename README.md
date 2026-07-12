@@ -1,83 +1,63 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">BCA Student | Aspiring Full Stack Developer | DSA Learner
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prakash1101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">BCA Student | Aspiring Full Stack Developer | Passionate Programmer</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BCA Student at **IGNOU**
-- 💻 Aspiring **Full Stack Developer**
-- 🌱 Currently learning **React.js, Node.js, Express.js & SQL**
-- 🧠 Practicing **Data Structures & Algorithms** on LeetCode
-- 🚀 Building real-world Full Stack projects
-- 📫 Email: **prakash101080pk@gmail.com**
+🎓 BCA Student
 
-> **"The best way to predict the future is to create it."**
+💻 Aspiring Full Stack Developer
 
----
+🌱 Currently Learning:
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
 
-## 🌐 Connect with Me
+🎯 Goal:
+Become a Professional Full Stack Developer and Software Engineer.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/prakash1101" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/prakash1101" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://leetcode.com/u/prakash1101/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
-</a>
-</p>
+🚀 I enjoy building projects and improving my programming skills every day.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,python,java,cpp,c,mysql,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Working On
 
-- React.js
-- Node.js
-- Express.js
-- SQL
-- REST APIs
-- Data Structures & Algorithms
+- 🌐 Web Development
+- 🐍 Python Programming
+- 💻 Building Real-World Projects
+- 🚀 Improving Problem Solving Skills
 
 ---
 
-## 🎯 2026 Goals
+## 📫 Connect With Me
 
-- ✅ Build 10+ Full Stack Projects
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Master MERN Stack
-- ✅ Get a Software Development Internship
-- ✅ Contribute to Open Source
+- 💼 LinkedIn: https://www.linkedin.com/in/prakash1101
+- 💻 GitHub: https://github.com/prakash1101
+- 📧 Email: prakash101080pk@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Quote
 
-<p align="center">
+> "Consistency beats talent when talent doesn't stay consistent."
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakash1101&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash1101&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+⭐ Thanks for visiting my profile!
