@@ -8,7 +8,7 @@
 
 🎓 BCA Student
 
-💻 Aspiring Full Stack Developer
+💻 Full Stack Developer
 
 🌱 Currently Learning:
 - React.js
@@ -29,7 +29,7 @@ Become a Professional Full Stack Developer and Software Engineer.
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,REST APIs,python,java,cpp,c,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,python,java,cpp,c,mysql,git,github" />
 </p>
 
 
@@ -37,10 +37,10 @@ Become a Professional Full Stack Developer and Software Engineer.
 
 ## 📚 Currently Working On
 
-- 🌐 Web Development
-- 🐍 Python Programming
+- 🌐 Full-Stack Web Development
+- 🧠 Data Structures & Algorithms (DSA)
 - 💻 Building Real-World Projects
-- 🚀 Improving Problem Solving Skills
+- 🚀 Enhancing Problem-Solving Skills
 
 ---
 
