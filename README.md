@@ -55,6 +55,6 @@ Become a Professional Full Stack Developer and Software Engineer.
 
 ## 💡 Quote
 
-> "The best way to predict the future is to create it haha i am the best ."
+> "The best way to predict the future is to create it."
 
 ⭐ Thanks for visiting my profile!
