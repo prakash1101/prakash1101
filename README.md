@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 BCA Student
+🎓 BCA Student @ IGNOU
 
 💻 Full Stack Developer
 
